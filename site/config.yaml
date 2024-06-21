@@ -121,6 +121,12 @@ menu:
   - identifier: contributing
     pageRef: "/docs/contributing"
     weight: 30
+  # Technical Outcomes
+  - identifier: technical-outcomes
+    title: Technical Outcomes
+  - identifier: simulation
+    pageRef: "/docs/technical-outcomes/scheduling"
+    parent: technical-outcomes
 
   # User Guide Children
   - identifier: all-in-one-image
